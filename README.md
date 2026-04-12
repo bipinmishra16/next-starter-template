@@ -21,12 +21,14 @@ A production-ready Next.js starter template built with modern best practices, op
 
 ```
 .
+├── .github/
+├── .husky/
 ├── app/
 ├── components/
+├── constants/
 ├── lib/
 ├── public/
 ├── style/
-├── .husky/
 └── ...
 ```
 
@@ -37,8 +39,8 @@ A production-ready Next.js starter template built with modern best practices, op
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/starter-template.git
-cd starter-template
+git clone https://github.com/bipinmishra16/next-starter-template.git
+cd next-starter-template
 ```
 
 ### 2. Install dependencies
