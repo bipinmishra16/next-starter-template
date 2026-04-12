@@ -1,15 +1,15 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "sharing title for contact page",
+  title: "Contact Page",
 
   description: "description of the contact page",
 
   keywords: [],
 
   openGraph: {
-    title: "title for sharing",
-    description: "website description for sharing",
+    title: "sharing title for contact page",
+    description: "sharing description for contact page",
     url: "https://website.com/contact",
     siteName: "site name",
     type: "website",
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "sharing title",
-    description: "sharing description",
+    title: "sharing title for contact page",
+    description: "sharing description for contact page",
     images: ["/image.webp"],
   },
 };
