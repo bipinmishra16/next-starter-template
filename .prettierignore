@@ -1,0 +1,21 @@
+# Dependencies
+node_modules
+
+# Next.js build output
+.next
+out
+build
+dist
+
+# Coverage / reports
+coverage
+.nyc_output
+
+# Logs
+*.log
+
+# Test outputs
+test-results
+
+# Misc
+.env*

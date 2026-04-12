@@ -1,0 +1,10 @@
+#!/bin/sh
+
+echo "🔍 Lint + Format..."
+npx lint-staged
+
+echo "🔎 Type Checking..."
+npm run type-check
+
+echo "🏗️ Build check..."
+npm run build
